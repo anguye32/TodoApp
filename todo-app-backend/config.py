@@ -1,4 +1,4 @@
 class Config:
-    SQLALCHEMY_DATABASE_URI = 'postgresql://postg:hHQ57dJCrh5GXOjsohqC@database-1.cluster-cbi6o0goyao2.us-east-2.rds.amazonaws.com:5432/database-1'
+    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres.otjnzxpdryrjsfyjjzet:Wumb3gddzN9de2OP@aws-0-us-east-1.pooler.supabase.com:6543/postgres'
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
